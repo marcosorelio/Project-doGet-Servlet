@@ -41,9 +41,6 @@ Método para de Envio GEt Através da Função doGEt
 
 ```
 
-
-![](http://marcosjunior.hol.es/git/img/servlet_1.0_tela.png)
-
 Método para exibição em navegador
 
 ```Html
@@ -75,3 +72,4 @@ Método para exibição em navegador
 
 ```
 
+![](http://marcosjunior.hol.es/git/img/servlet_1.0_tela.png)
