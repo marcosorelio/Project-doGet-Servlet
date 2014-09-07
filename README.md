@@ -11,7 +11,7 @@ Uma aplicação em Java na web requer a existência de um servidor de aplicaçã
 •	WebSphere(IBM)
 
 
-Método para de Envio GEt Através da Função doGEt
+Método para de Envio Get Através da Função doGet
 
 ```Java
 @Override
@@ -71,5 +71,7 @@ Método para exibição em navegador
 </body>
 
 ```
+
+Resultado--------
 
 ![](http://marcosjunior.hol.es/git/img/servlet_1.0_tela.png)
